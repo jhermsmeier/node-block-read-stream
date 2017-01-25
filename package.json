@@ -1,0 +1,33 @@
+{
+  "name": "block-read-stream",
+  "version": "1.0.0",
+  "description": "Read a file in blocks of a specified size",
+  "license": "MIT",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "keywords": [
+    "stream",
+    "block",
+    "blocksize",
+    "block",
+    "size",
+    "fs",
+    "file",
+    "chunk"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "homepage": "https://github.com/jhermsmeier/node-block-read-stream",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-block-read-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-block-read-stream/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
